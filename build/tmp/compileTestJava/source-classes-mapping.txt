@@ -1,0 +1,10 @@
+springsecurity/study/aws1/web/PostsApiControllerTest.java
+ springsecurity.study.aws1.web.PostsApiControllerTest
+springsecurity/study/aws1/web/IndexControllerTest.java
+ springsecurity.study.aws1.web.IndexControllerTest
+springsecurity/study/aws1/web/HelloControllerTest.java
+ springsecurity.study.aws1.web.HelloControllerTest
+springsecurity/study/aws1/domain/posts/PostsRepositoryTest.java
+ springsecurity.study.aws1.domain.posts.PostsRepositoryTest
+springsecurity/study/aws1/web/dto/HelloResponseDtoTest.java
+ springsecurity.study.aws1.web.dto.HelloResponseDtoTest
