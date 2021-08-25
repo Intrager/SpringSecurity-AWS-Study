@@ -1,9 +1,19 @@
+springsecurity/study/aws1/config/auth/SecurityConfig.java
+ springsecurity.study.aws1.config.auth.SecurityConfig
 springsecurity/study/aws1/web/dto/PostsResponseDto.java
  springsecurity.study.aws1.web.dto.PostsResponseDto
-springsecurity/study/aws1/Application.java
- springsecurity.study.aws1.Application
-springsecurity/study/aws1/domain/BaseTimeEntity.java
- springsecurity.study.aws1.domain.BaseTimeEntity
+springsecurity/study/aws1/web/IndexController.java
+ springsecurity.study.aws1.web.IndexController
+springsecurity/study/aws1/config/auth/dto/OAuthAttributes.java
+ springsecurity.study.aws1.config.auth.dto.OAuthAttributes
+ springsecurity.study.aws1.config.auth.dto.OAuthAttributes$OAuthAttributesBuilder
+springsecurity/study/aws1/domain/user/User.java
+ springsecurity.study.aws1.domain.user.User
+ springsecurity.study.aws1.domain.user.User$UserBuilder
+springsecurity/study/aws1/config/auth/dto/SessionUser.java
+ springsecurity.study.aws1.config.auth.dto.SessionUser
+springsecurity/study/aws1/service/posts/PostsService.java
+ springsecurity.study.aws1.service.posts.PostsService
 springsecurity/study/aws1/web/dto/HelloResponseDto.java
  springsecurity.study.aws1.web.dto.HelloResponseDto
 springsecurity/study/aws1/web/dto/PostsSaveRequestDto.java
@@ -14,16 +24,22 @@ springsecurity/study/aws1/web/dto/PostsUpdateRequestDto.java
  springsecurity.study.aws1.web.dto.PostsUpdateRequestDto$PostsUpdateRequestDtoBuilder
 springsecurity/study/aws1/web/dto/PostsListResponseDto.java
  springsecurity.study.aws1.web.dto.PostsListResponseDto
-springsecurity/study/aws1/web/HelloController.java
- springsecurity.study.aws1.web.HelloController
+springsecurity/study/aws1/domain/user/UserRepository.java
+ springsecurity.study.aws1.domain.user.UserRepository
+springsecurity/study/aws1/web/PostsApiController.java
+ springsecurity.study.aws1.web.PostsApiController
+springsecurity/study/aws1/domain/user/Role.java
+ springsecurity.study.aws1.domain.user.Role
 springsecurity/study/aws1/domain/posts/Posts.java
  springsecurity.study.aws1.domain.posts.Posts
  springsecurity.study.aws1.domain.posts.Posts$PostsBuilder
 springsecurity/study/aws1/domain/posts/PostsRepository.java
  springsecurity.study.aws1.domain.posts.PostsRepository
-springsecurity/study/aws1/web/PostsApiController.java
- springsecurity.study.aws1.web.PostsApiController
-springsecurity/study/aws1/web/IndexController.java
- springsecurity.study.aws1.web.IndexController
-springsecurity/study/aws1/service/posts/PostsService.java
- springsecurity.study.aws1.service.posts.PostsService
+springsecurity/study/aws1/config/auth/CustomOAuth2UserService.java
+ springsecurity.study.aws1.config.auth.CustomOAuth2UserService
+springsecurity/study/aws1/domain/BaseTimeEntity.java
+ springsecurity.study.aws1.domain.BaseTimeEntity
+springsecurity/study/aws1/web/HelloController.java
+ springsecurity.study.aws1.web.HelloController
+springsecurity/study/aws1/Application.java
+ springsecurity.study.aws1.Application
